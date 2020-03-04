@@ -1,0 +1,18 @@
+a{
+    margin-left: 2%;
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+
+}
+.pages{
+    margin-left: 10%;
+}
+body{
+    background-color: white;
+}
+.pages{
+    background-color: black;
+    border: 3px solid orange;
+    
+}
